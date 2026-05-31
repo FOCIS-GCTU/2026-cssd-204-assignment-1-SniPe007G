@@ -1,7 +1,4 @@
-
-def main():
-  pass #code goes here
-  # File: initials.py
+# File: initials.py
 # Description: Print out my initials ERO in stylized large letters.
 # Assignment Number: 2
 #
@@ -36,3 +33,6 @@ def main():
     print()
     #Call the main function to run the program
 main()
+
+
+
